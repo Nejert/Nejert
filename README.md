@@ -16,6 +16,7 @@ I'm looking for a team that values ​​code quality as much as I do and is wil
 I'm looking for new connections and professional networking.
 
 "Make it so. Engage!" 🖖
+![Top Languages](./profile/top-langs.svg)
 <!--
 **Nejert/Nejert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
